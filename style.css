@@ -592,7 +592,6 @@ html[lang="ar"] .hero-description { padding-bottom: clamp(64px, 7.82vw, 105px); 
     html[lang="ar"] .hero-description { padding-bottom: clamp(67px, 17.25vw, 89px); }
 }
 
-
 .project-link { cursor: pointer; }
 .project-link .project-link-arrow { color: var(--blue-hover); }
 .project-status-label { pointer-events: none; }
