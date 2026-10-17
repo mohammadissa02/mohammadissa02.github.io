@@ -206,7 +206,6 @@ contactForm.addEventListener('submit', (event) => {
 
         return;
     }
-
     
     const recipientEmail = 'mohammadhakeem917@gmail.com';
 
